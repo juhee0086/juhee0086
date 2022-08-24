@@ -5,23 +5,10 @@
 
 <div align=center>
 <pre>
-
-                                              
-
-
-                                      
-
       _ _    _ _    _ ______ ______ 
      | | |  | | |  | | |    | |     
  _   | | |  | | |--| | |----| |---- 
 |_|__|_\_|__|_|_|  |_|_|____|_|____ 
-                                    
-
-                                      
-                                      
-                       
-
-
 </pre>
 
 <img src="https://img.shields.io/badge/Java-DC8634?style=flat-square&logo=Java&logoColor=white"/><a/>
